@@ -1,1 +1,1 @@
-bbbbbbb    version 2
+bbbbbbb    version 2  测试hot-fix 分支合并冲突
