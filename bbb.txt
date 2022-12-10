@@ -1,1 +1,2 @@
 bbbbbbb    version 2  这是master测试合并冲突
+bbbbbbb    version 2  测试hot-fix 分支合并冲突  合并冲突解决
