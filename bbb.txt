@@ -1,1 +1,1 @@
-bbbbbbb    version 2
+bbbbbbb    version 2  这是master测试合并冲突
