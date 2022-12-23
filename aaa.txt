@@ -1,3 +1,4 @@
 aaaaaaaa   version 2 
 我在github 远程库新增一行代码
 测试SSH免疫登录pull
+测试SSH免密登录push
